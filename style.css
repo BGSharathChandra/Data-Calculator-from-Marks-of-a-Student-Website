@@ -1,0 +1,115 @@
+#baseinp{
+  margin: 30px;
+}
+
+button{
+  background-color: #10ff00;
+  border: 1px solid red;
+}
+
+button:hover{
+    background-color: aqua;
+}
+#ass{
+  margin-left: 20px;
+}
+
+#ams{
+  margin-left: 150px ;
+}
+
+#names{
+  margin-left: 6.5%;
+}
+
+#rollno{
+  margin-left: 3%;
+}
+.form3 {
+  display: inline-block;
+}
+.form4 {
+  display: inline-block;
+}
+
+
+#phym{
+  margin-left: 13%;
+}
+   
+
+#chemm{
+  margin-left: 9%;
+}
+  
+#biom{
+  margin-left: 12%;
+}
+  
+#mathm{
+  margin-left: 5%;
+}
+  
+#ssm{
+  margin-left: 4%;
+}
+  
+#flm{
+  margin-left: 3%;
+}
+
+#scim{
+  margin-left: 13%;
+}
+  
+#form4s2{
+  display: inline;
+}
+
+/* For Subjects Total Marks */
+#phytm{
+  margin-left: 10%;
+}
+   
+
+#chemtm{
+  margin-left: 7%;
+}
+  
+#biotm{
+  margin-left: 12%;
+}
+  
+#mathtm{
+  margin-left: 5%;
+}
+  
+#sstm{
+  margin-left: 4%;
+}
+  
+#fltm{
+  margin-left: 3%;
+}
+
+#scitm{
+  margin-left: 11%;
+}
+
+#submit3{
+  display: inline;
+  margin-left: 45%;
+}
+
+#outputinp{
+  margin-left: 3%;
+}
+
+#submit4{
+  display: inline;
+  margin-left: 45%;
+}
+
+#form3s3{ 
+  display: inline;
+}
