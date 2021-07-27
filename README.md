@@ -1,1 +1,1 @@
-# Percentage-Calculator-from-Marks-of-a-Student-Website
+# Data-Calculator-from-Marks-of-a-Student-Website
